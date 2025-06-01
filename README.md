@@ -43,12 +43,6 @@
 - **[AWS S3](https://aws.amazon.com/s3/)** - Secure cloud storage for images
 - **[Zod](https://zod.dev/)** - TypeScript-first schema validation
 
-### **UI Components**
-- **[Lucide React](https://lucide.dev/)** - Beautiful & consistent icons
-- **[Radix UI](https://www.radix-ui.com/)** - Accessible component primitives
-- **Custom Components** - Tailored UI components for food app experience
-
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -129,9 +123,3 @@ Open [http://localhost:3000](http://localhost:3000) to see the magic! ✨
 3. Create IAM user with S3 permissions
 4. Generate access keys
 5. Add credentials to your `.env.local` file
-
-<div align="center">
-  <p>Made with ❤️ and lots of 🍕</p>
-  <p>⭐ Star this repo if you found it helpful!</p>
-</div>
-
