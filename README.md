@@ -1,13 +1,4 @@
 # 🍕 FoodieAI - AI-Powered Food Recipe Analyzer
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-15.3.1-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-11.11.17-pink?style=for-the-badge&logo=framer" alt="Framer Motion" />
-</div>
-
 <div align="center">
   <h3>✨ Transform any food photo into a complete recipe with AI-powered analysis ✨</h3>
   <p>A beautiful, animated food app that analyzes food images and provides detailed recipes, cooking instructions, and nutrition information using advanced AI technology.</p>
