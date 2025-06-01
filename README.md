@@ -96,17 +96,6 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) to see the magic! ✨
 
-## 🔧 Configuration
-
-### Environment Variables
-
-| Variable | Description | Required |
-|----------|-------------|----------|
-| `GROQ_API_KEY` | Your Groq API key for AI analysis | ✅ |
-| `AWS_REGION` | AWS region for S3 bucket | ✅ |
-| `ACCESS_KEY` | AWS access key ID | ✅ |
-| `SECRET_ACCESS_KEY` | AWS secret access key | ✅ |
-| `AWS_BUCKET_NAME` | S3 bucket name for image storage | ✅ |
 
 ### Getting API Keys
 
