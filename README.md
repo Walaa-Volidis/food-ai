@@ -7,7 +7,6 @@
 ## 🌟 Features
 
 ### 🎨 **Beautiful Design & Animations**
-- **No Tabs Interface** - Smooth single-page flow with seamless transitions
 - **Stunning Animations** - Powered by Framer Motion for delightful user interactions
 - **Food-Themed UI** - Warm gradients, floating food emojis, and appetizing color schemes
 - **Responsive Design** - Perfect experience on desktop, tablet, and mobile devices
